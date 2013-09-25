@@ -39,7 +39,7 @@ import org.junit.Test;
 public class GenerateTestingHTables {
 
 	private static Configuration config = HBaseConfiguration.create();
-	private static final String QUORUM = "cldmgr.prod.bigdata.bskyb.com";
+	private static final String QUORUM = "127.0.0.1";
 	private static final String QUORUM_PORT = "2181";
 	private static final Long STARTING_TIMESTAMP = 1260000000000L;
 
