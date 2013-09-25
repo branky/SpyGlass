@@ -39,7 +39,6 @@ import org.apache.hadoop.mapred.Reporter;
 import org.apache.hadoop.util.Progressable;
 import org.apache.hadoop.util.StringUtils;
 
-import com.jcraft.jsch.Logger;
 
 import java.io.IOException;
 import java.sql.Connection;
